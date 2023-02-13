@@ -1,0 +1,7 @@
+C:\Users\Mohammed Feroz\Desktop\Learning\DotNet\Azure-Webapp1\Azure-Webapp1\obj\Release\net6.0\PubTmp\Out\Azure-Webapp1.exe
+C:\Users\Mohammed Feroz\Desktop\Learning\DotNet\Azure-Webapp1\Azure-Webapp1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Mohammed Feroz\Desktop\Learning\DotNet\Azure-Webapp1\Azure-Webapp1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Mohammed Feroz\Desktop\Learning\DotNet\Azure-Webapp1\Azure-Webapp1\obj\Release\net6.0\PubTmp\Out\Azure-Webapp1.dll
+C:\Users\Mohammed Feroz\Desktop\Learning\DotNet\Azure-Webapp1\Azure-Webapp1\obj\Release\net6.0\PubTmp\Out\Azure-Webapp1.deps.json
+C:\Users\Mohammed Feroz\Desktop\Learning\DotNet\Azure-Webapp1\Azure-Webapp1\obj\Release\net6.0\PubTmp\Out\Azure-Webapp1.runtimeconfig.json
+C:\Users\Mohammed Feroz\Desktop\Learning\DotNet\Azure-Webapp1\Azure-Webapp1\obj\Release\net6.0\PubTmp\Out\Azure-Webapp1.pdb
